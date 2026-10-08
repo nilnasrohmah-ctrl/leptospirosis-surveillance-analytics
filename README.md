@@ -1,16 +1,18 @@
 # Leptospirosis Surveillance Analytics
 
-**Synthetic Public Health Data Project | R | Epidemiology | Surveillance Analytics**
+**Field Epidemiology Portfolio | R | Surveillance Analytics | Logistic Regression**
 
-An end-to-end infectious disease surveillance analytics project demonstrating how routine surveillance data can be transformed into actionable public health indicators using R.
+An end-to-end leptospirosis surveillance analytics portfolio based on real-world field epidemiology work in Bantul District, Indonesia.
 
-> **Privacy note:** This project uses fully synthetic data. No real patient-level, health facility, or government surveillance records are included.
+A related ecological analysis of leptospirosis cases and rainfall patterns in Bantul District for 2020–2023 was previously published in **BIO Web of Conferences (2024)**. This portfolio extends that body of work by focusing on additional surveillance-process questions, including epidemiological investigation, laboratory testing, completeness, and onset-to-investigation delay.
+
+> **Privacy note:** The public repository uses a fully synthetic demonstration dataset. Original patient-level surveillance records from the Bantul District Health Office are not included.
 
 ---
 
 ## Project Overview
 
-This portfolio project simulates a routine leptospirosis surveillance workflow commonly encountered in field epidemiology and public health practice.
+This project demonstrates how routine infectious disease surveillance data can be transformed into actionable public health indicators using R.
 
 The analysis focuses on:
 
@@ -20,6 +22,19 @@ The analysis focuses on:
 - annual surveillance trends;
 - multivariable logistic regression; and
 - reproducible data visualization.
+
+---
+
+## Related Published Work
+
+A related analysis using leptospirosis surveillance data from Bantul District Health Office was previously published as:
+
+**Examining the Impact of Rainfall Patterns on Leptospirosis Cases in Bantul District, Indonesia: A Four-Year Ecology Study 2020–2023**
+
+BIO Web of Conferences. 2024;132:03002.  
+DOI: https://doi.org/10.1051/bioconf/202413203002
+
+The current portfolio continues the analytical exploration of leptospirosis surveillance using a different set of surveillance-performance questions.
 
 ---
 
@@ -35,9 +50,9 @@ The analysis focuses on:
 
 ---
 
-## Dataset
+## Public Demonstration Dataset
 
-The analysis uses **500 fully synthetic leptospirosis surveillance records**.
+The public repository uses **500 fully synthetic leptospirosis surveillance records** created to reproduce the structure of the analytical workflow without sharing the original patient-level surveillance data.
 
 Variables include:
 
@@ -58,9 +73,9 @@ Variables include:
 
 ### Data Privacy
 
-This repository contains **no real patient-level information**.
+This repository contains **no original patient-level surveillance records**.
 
-No original surveillance data, personal identifiers, health facility records, or confidential government data are included.
+No personal identifiers, original health facility records, or confidential source datasets are publicly shared.
 
 ---
 
@@ -93,7 +108,7 @@ Covariates included:
 
 Adjusted odds ratios and 95% confidence intervals were calculated.
 
-All numerical results in this repository are based on synthetic data and are intended for demonstration only.
+All numerical results displayed in this public repository are generated from the synthetic demonstration dataset and are intended to demonstrate the analytical workflow. They should not be interpreted as official surveillance estimates from the underlying field dataset.
 
 ---
 
@@ -179,13 +194,13 @@ and automatically generates figures and analytical outputs.
 
 ---
 
-## Disclaimer
+## Data Use and Confidentiality
 
-This is a synthetic portfolio project.
+This portfolio is based on real field epidemiology and leptospirosis surveillance work in Bantul District, Indonesia.
 
-It does not reproduce or disclose findings from any real surveillance database, patient record, health facility, or government dataset.
+To protect confidentiality, the original patient-level surveillance dataset is not publicly shared in this repository. The included dataset is fully synthetic and is provided only to demonstrate the analysis workflow, code structure, regression modelling, and data visualization approach.
 
-All numerical results are generated from simulated data and should be interpreted only for demonstration purposes.
+Numerical results shown in this GitHub repository are therefore demonstration results from the synthetic dataset and should not be interpreted as official surveillance estimates.
 
 ---
 
