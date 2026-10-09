@@ -6,7 +6,7 @@ An end-to-end leptospirosis surveillance analytics portfolio based on field epid
 
 This repository presents a **separate, self-directed surveillance analysis** developed to explore operational surveillance questions beyond my earlier published work. The analysis in this portfolio focuses on epidemiological investigation, laboratory testing, completeness, timeliness, annual surveillance trends, and multivariable logistic regression using a fully synthetic demonstration dataset.
 
-A related ecological study examining leptospirosis cases and rainfall patterns in Bantul District for 2020–2023 was previously published in **BIO Web of Conferences (2024)**. My contribution to that published study focused primarily on **data cleaning and manuscript drafting**. The analytical work presented in this repository is a separate portfolio exercise that I developed to strengthen my applied epidemiology and R skills.
+A related ecological study examining leptospirosis cases and rainfall patterns in Bantul District for 2020–2023 was previously published in **BIO Web of Conferences (2024)**. My contribution to that published study focused primarily on **data cleaning, descriptive analysis, and manuscript drafting**. The analytical work presented in this repository is a separate portfolio exercise that I developed to strengthen my applied epidemiology and R skills.
 
 > **Privacy note:** The public repository uses a fully synthetic demonstration dataset. Original patient-level surveillance records from the Bantul District Health Office are not included.
 
@@ -40,7 +40,8 @@ DOI: https://doi.org/10.1051/bioconf/202413203002
 
 My contribution to that study focused primarily on:
 
-- data cleaning; and
+- data cleaning;
+- descriptive analysis; and
 - manuscript drafting and development.
 
 The current GitHub portfolio is **not a reproduction of that ecological analysis**. It is a separate surveillance analytics exercise that explores different operational questions related to epidemiological investigation, laboratory testing, completeness, and timeliness.
